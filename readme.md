@@ -1,1 +1,1 @@
-Este é o conteúdo do artigo https://kallbuloso.com.br/amaralkarl/alterar-o-diretorio-padrao-dos-models-no-laravel/
+Meu Laravel start - (somente testes na criação de packages, não usar em produção).
